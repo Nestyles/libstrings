@@ -5,8 +5,6 @@
 ** strlen rewritten :)
 */
 
-#include <curses.h>
-
 int my_strlen(char const *str)
 {
     int size = 0;
